@@ -1,4 +1,5 @@
 # **Hello, I'm Erika** :wave:
+I'm a programmer :woman_technologist:
 
 ## I'm learning
 * :crystal_ball: Machine Learning
